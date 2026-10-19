@@ -1,0 +1,16 @@
+PART E — VIDEO AND AI USAGE NOTE
+
+Five-minute camera-on video: speak naturally in Hindi or English; use cues, not a read-aloud script.
+0:00–1:30 — What surprised you in your real audit. Add the actual example and why it changed your view.
+1:30–3:15 — What the Vardhan pack revealed beyond explicit requests: order visibility, conflicting records, partials/holds, mixed-unit polishing and ERP adoption risk. Explain what evidence mattered most.
+3:15–5:00 — One requirement decision you would change with another day, why, and what evidence you would gather.
+Recording link: [add your own link after recording]
+
+AI USAGE NOTE (edit to match actual experience; 5–10 lines)
+Tools used: OpenAI Codex, to organise supplied assignment materials and draft/format this package.
+Tasks supported: extracting PDF requirements, structuring evidence, drafting the requirement model and editing language.
+My independent contribution: I must complete the real-business interview, observations, photos, quotes and judgments; Part A remains blank because those were not supplied.
+Incorrect or generic AI output: No specific incorrect generated claim has been verified for this package; do not invent one. If you find one during review, describe it and how you corrected it.
+How I checked: compared the Vardhan findings against the supplied assignment and guide; treated duplicate-looking rows as unconfirmed.
+Limitations: AI could not conduct the visit, obtain consent, verify impact, resolve client ambiguities or record the video.
+Final verification: review every field and claim against your evidence before submission.
